@@ -163,6 +163,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 
 var appRoutes = [
     { path: 'Home', component: __WEBPACK_IMPORTED_MODULE_6__home_home_component__["a" /* HomeComponent */] },
+    { path: '404.html', component: __WEBPACK_IMPORTED_MODULE_6__home_home_component__["a" /* HomeComponent */] },
     { path: 'Donate', children: [
             { path: 'Truemoney', component: __WEBPACK_IMPORTED_MODULE_5__donate_truemoney_truemoney_component__["a" /* TruemoneyComponent */] },
         ] },
